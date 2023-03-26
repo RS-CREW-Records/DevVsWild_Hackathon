@@ -1,0 +1,20 @@
+.page[b-bitp4bcroy]{
+    display: flex;
+    flex-direction: column;
+    height: 100vw;
+    width: 100vw;
+    
+
+}
+
+.body-section[b-bitp4bcroy]{
+    min-height: 80vh;
+}
+
+.section-buttons[b-bitp4bcroy]{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 1rem;
+}

@@ -3,3 +3,12 @@
     border-radius: 20px;
     text-align: center;
 }
+
+.invisible{
+    display: none;
+}
+
+.submit-button:hover{
+    background-color: #087662;
+    color: rgb(0, 0, 0);
+}

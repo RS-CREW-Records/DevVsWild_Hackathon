@@ -2,14 +2,29 @@
 <div class="geobutton" @onclick="geoGet"><p>Geolocate</p></div>
 
 <div class="geobutton" @onclick="waypointSet"><p>set Waypoint</p></div>
+<input class="coord @viewState" type="text"><p class="@viewState"> Latitute</p>
+<input class="coord @viewState" type="text"> <p class="@viewState">Longitude</p>
+<div class="submit-button @viewState" @onclick="submit"><p>Submit</p></div>
 
 
 @code{
+
+    private String? viewState = "invisible";
     private void geoGet(){
 
     }
 
     private void waypointSet(){
+            if(viewState == "invisible"){
+                viewState = "visible";
+            }
+            else{
+                viewState = "invisible";
+            }
+    }
 
+    private void submit(){
+        viewState = "invisible";
+        
     }
 }

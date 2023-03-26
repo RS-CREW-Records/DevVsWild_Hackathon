@@ -198,7 +198,7 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "redemption.dll": "sha256-y9p+Ei3riw2Jr7u230NYbtBBguUKsJ45Ca59bWjY+u0="
+      "redemption.dll": "sha256-AYSRsqosuF+1PQxEpAaSkPcHmpF97R7flgN78fqkSZY="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -206,7 +206,7 @@
       "redemption.lib.module.js": "sha256-1JyfFOlcOzaKq01ZrU3qgrMbhcdmrUfX0cq7Rnn1SSk="
     },
     "pdb": {
-      "redemption.pdb": "sha256-Hnj3lk6pderapdOz4kXBVdjPjrl\/zBAzdCHOCHJzaqw="
+      "redemption.pdb": "sha256-QhHowN9pmgpFgVFmGlhBUg3EK6+7tDjvm8OclYmJIfw="
     },
     "runtime": {
       "dotnet.7.0.4.lygdc404mt.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

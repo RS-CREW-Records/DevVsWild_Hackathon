@@ -189,43 +189,6 @@
         }
       },
       {
-        "HashCode": -1989794397,
-        "Kind": "Components.Component",
-        "Name": "redemption.Shared.GeoButton",
-        "AssemblyName": "redemption",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GeoButton"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "redemption.Shared.GeoButton",
-          "Common.TypeNamespace": "redemption.Shared",
-          "Common.TypeNameIdentifier": "GeoButton"
-        }
-      },
-      {
-        "HashCode": -2030341145,
-        "Kind": "Components.Component",
-        "Name": "redemption.Shared.GeoButton",
-        "AssemblyName": "redemption",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "redemption.Shared.GeoButton"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "redemption.Shared.GeoButton",
-          "Common.TypeNamespace": "redemption.Shared",
-          "Common.TypeNameIdentifier": "GeoButton",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1793992191,
         "Kind": "Components.Component",
         "Name": "redemption.Shared.GeoMap",
@@ -259,6 +222,43 @@
           "Common.TypeName": "redemption.Shared.GeoMap",
           "Common.TypeNamespace": "redemption.Shared",
           "Common.TypeNameIdentifier": "GeoMap",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1989794397,
+        "Kind": "Components.Component",
+        "Name": "redemption.Shared.GeoButton",
+        "AssemblyName": "redemption",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GeoButton"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "redemption.Shared.GeoButton",
+          "Common.TypeNamespace": "redemption.Shared",
+          "Common.TypeNameIdentifier": "GeoButton"
+        }
+      },
+      {
+        "HashCode": -2030341145,
+        "Kind": "Components.Component",
+        "Name": "redemption.Shared.GeoButton",
+        "AssemblyName": "redemption",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "redemption.Shared.GeoButton"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "redemption.Shared.GeoButton",
+          "Common.TypeNamespace": "redemption.Shared",
+          "Common.TypeNameIdentifier": "GeoButton",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
